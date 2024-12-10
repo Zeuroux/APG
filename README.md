@@ -1,6 +1,6 @@
 The app must be installed to make the code below work
 
-##Example usage:
+## Example usage:
 
 Manifest:
 ```
