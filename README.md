@@ -1,6 +1,14 @@
 The app must be installed to make the code below work
 
 usage:
+
+
+Manifest:
+```
+<uses-permission android:name="com.zeuroux.apg.GET_APK_URL" />
+```
+
+Java:
 ```
 Uri uri = Uri.parse("content://com.zeuroux.apg.app");
 String[] projection = new String[]{"email@example.com", "token", "deviceName", "packageName", "versionCode"};
