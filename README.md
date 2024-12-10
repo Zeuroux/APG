@@ -17,3 +17,8 @@ try (Cursor cursor = getContentResolver().query(uri, projection, null, null, nul
     e.printStackTrace();
 }
 ```
+![image](https://github.com/user-attachments/assets/ffacb9a6-8e95-4a67-8250-88ab1a3d95f1)
+
+## Credits
+
+[GPlayApi](https://gitlab.com/AuroraOSS/gplayapi)
