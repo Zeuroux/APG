@@ -1,4 +1,4 @@
-The app must be installed to make the code below work
+The app must be installed to make the code below work, also im terrible at naming things so feel free to contribute and change up stuff
 
 ## Example usage:
 
