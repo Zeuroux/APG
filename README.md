@@ -1,4 +1,4 @@
-idk
+The app must be installed to make the code below work
 usage:
 ```
 Uri uri = Uri.parse("content://com.zeuroux.apg.app");
