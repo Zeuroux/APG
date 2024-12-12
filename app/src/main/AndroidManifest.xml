@@ -4,9 +4,6 @@
 
     <uses-permission android:name="android.permission.INTERNET" />
 
-    <permission android:name="com.zeuroux.apg.GET_APK_URL"
-        android:protectionLevel="normal" />
-
     <application
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -18,8 +15,7 @@
         <provider
             android:authorities="com.zeuroux.apg.app"
             android:name="com.zeuroux.apg.AppUrlProvider"
-            android:exported="true"
-            android:permission="com.zeuroux.apg.GET_APK_URL" />
+            android:exported="true" />
     </application>
 
 </manifest>
